@@ -6,5 +6,6 @@ public class test_git_java {
         SimpleDateFormat formmatchik = new SimpleDateFormat("yyyy/MM/dd");
         System.out.println(formmatchik.format(new Date()));
         System.out.println("change something for check");
+        System.out.println("it's for checking git update");
     }
 }
