@@ -8,5 +8,6 @@ public class test_git_java {
         System.out.println("change something for check");
         System.out.println("it's for checking git update");
         System.out.println("it's only for conflict in git versions from 2.8");
+        System.out.println("there will be comments from even classes , in example 3.2");
     }
 }
