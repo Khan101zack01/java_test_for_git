@@ -15,5 +15,9 @@ public class test_git_java {
         System.out.print("urok3.4 Debugging ");
         System.out.print("git stash pop -> is merging Debug file with original. ");
         System.out.println("git stash pop -> return the last Debug to No 0");
+        System.out.println("test debug 1");
+        System.out.println("test debug 1");
+        System.out.println("git stash drop No_of_Debug -> for delete Debug");
+
     }
 }
