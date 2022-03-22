@@ -12,5 +12,8 @@ public class test_git_java {
         System.out.println("git branch , to check branches");
         System.out.print("3.4 now we are commit it for check the result of the debug , and ");
         System.out.println("WIP means Work In Process");
+        System.out.print("urok3.4 Debugging ");
+        System.out.print("git stash pop -> is merging Debug file with original. ");
+
     }
 }
