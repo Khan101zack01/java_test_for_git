@@ -5,7 +5,7 @@ public class test_git_java {
     public static void main(String[] args) {
         SimpleDateFormat formmatchik = new SimpleDateFormat("yyyy/MM/dd");
         System.out.println(formmatchik.format(new Date()));
-        System.out.println("change something for check");
+        System.out.println("test Debug 2");
         System.out.println("it's for checking git update");
         System.out.println("it's only for conflict in git versions from 2.8");
         System.out.println("git checkout -b branch_name creates new branch and connect to the new branch");
@@ -14,6 +14,6 @@ public class test_git_java {
         System.out.println("WIP means Work In Process");
         System.out.print("urok3.4 Debugging ");
         System.out.print("git stash pop -> is merging Debug file with original. ");
-
+        System.out.println("git stash pop -> return the last Debug to No 0");
     }
 }
