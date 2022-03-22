@@ -10,5 +10,7 @@ public class test_git_java {
         System.out.println("it's only for conflict in git versions from 2.8");
         System.out.println("git checkout -b branch_name creates new branch and connect to the new branch");
         System.out.println("git branch , to check branches");
+        System.out.print("3.4 now we are commit it for check the result of the debug , and ");
+        System.out.println("WIP means Work In Process");
     }
 }
