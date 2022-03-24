@@ -14,7 +14,7 @@ git reset HEAD~n -> n-> means number, there we reset them count of the last comm
 example n=1 means we reset last 1 commit, and it'll be in red index.
 
 
-
-
-
+git commit --amend --no-edit -> is for add forgotten file to the commit,
+without changing name of the file.
+            
 }
