@@ -13,8 +13,13 @@ in an example it was rest to last commit .
 git reset HEAD~n -> n-> means number, there we reset them count of the last commit ,
 example n=1 means we reset last 1 commit, and it'll be in red index.
 
+git reset --hard commit_id -> delete all commits to till commit_id,
+commit_id will be the head(last)
+
+git commit --amend -m <new_name> -> to change the name of the last commit,
 
 git commit --amend --no-edit -> is for add forgotten file to the commit,
 without changing name of the file.
+
             
 }
