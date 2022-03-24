@@ -1,0 +1,4 @@
+
+we careless added to the git and added
+and we don't want to detect this file and also don't want to delete this file
+at first we add this file to the git ignore
