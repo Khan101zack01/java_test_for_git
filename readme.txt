@@ -20,6 +20,15 @@ git commit --amend -m <new_name> -> to change the name of the last commit,
 
 git commit --amend --no-edit -> is for add forgotten file to the commit,
 without changing name of the file.
+}
+4.6{
+git reset --merge <commit_id> -> to reset after merge.
 
-            
+git merge --abort -> to cancel merging.
+
+git branch -m -> to rename the branch.
+
+git branch -d <branch_name> -> to delete the branch after merging.
+
+git branch -D <branch_name> -> to delete before or after merging.
 }
